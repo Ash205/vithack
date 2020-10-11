@@ -1,6 +1,6 @@
 # VIT Hack - Crisis Response and Healthcare
 # Team Blitzkrieg
-Website Link: https://vithack.herokuapp.com/
+Website Link: https://vithack.herokuapp.com/ \
 Machine Learning Model: https://www.kaggle.com/arjunvarma00/notebook781041b3cf
 # Description
 The aim of our project 'Know Covid19' is to provide one stop solution to know everything about Covid19 in India in a single website. Despite this being a major public healthcare crisis most people are still unaware of how to contact 1st responders or find medical information about the virus. Our website will help the common man to not only understand the facts about this virus but also provide him with critical information like the number of beds in hospitals and medical colleges in every state but also the contact information of the first responders. This website has multiple section.
